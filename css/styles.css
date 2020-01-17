@@ -1,0 +1,8 @@
+.important {
+  color: red;
+  font-family: sans-serif;
+}
+
+.unimportant {
+  color: blue;
+}
